@@ -1,5 +1,5 @@
 ---
-title: "Assignment 7"
+title: "Polynomial , KNN and Regression Models"
 author: "Prabin Kharel"
 ---
 
